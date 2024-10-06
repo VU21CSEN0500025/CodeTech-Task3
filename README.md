@@ -1,14 +1,14 @@
 # CodeTech-It-Task3
 
-### Name: AJAY PANIGRAHI
-### Company: CODTECH IT SOLUTIONS
-### ID: CT08DS4408
-### Domain: FRONTEND WEB DEVELOPMENT
-### Duration:  JULY 10th 2024 to AUGUST 10th 2024
-
-### Mentor Details:
-### Name: Muzammil Ahmed
-### Contact: +91 96401 28015
+ Name: CHIPPALA BALAJI
+ 
+ Company: CODTECH IT SOLUTIONS
+ 
+ ID: CT08DS7925
+ 
+ Domain: FRONTEND WEB DEVELOPMENT
+ 
+ Duration:  SEPTEMBER 5th 2024 to OCTOBER 10th 2024
 
 ## Weather Webapp
 
@@ -21,3 +21,11 @@ This project displays real-time weather information for a specified location. Us
 * HTML
 * CSS
 * JavaScript
+
+* ### SAMPLE OUTPUT
+* ![image](https://github.com/user-attachments/assets/806aa39b-6c26-4d57-9788-deca7cd7d32e)
+* ![image](https://github.com/user-attachments/assets/1a0222fb-2472-483a-b35c-c89dc69848ea)
+* ![image](https://github.com/user-attachments/assets/8de89253-4a00-4969-88ab-9643b0b44770)
+
+
+
